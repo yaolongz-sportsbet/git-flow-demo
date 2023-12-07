@@ -9,4 +9,5 @@ feature-5
 feature-6
 fix1
 feature-7
+fix2
 feature-8
