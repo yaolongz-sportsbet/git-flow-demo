@@ -8,3 +8,4 @@ feature-4
 feature-5
 feature-6
 fix1
+feature-7
